@@ -1,0 +1,18 @@
+[submodule "lib/python-tpa81"]
+	path = lib/python-tpa81
+	url = https://github.com/TiagoSeverino/python-tpa81
+[submodule "lib/python-cmps10"]
+	path = lib/python-cmps10
+	url = https://github.com/TiagoSeverino/python-cmps10
+[submodule "lib/python-MLX90614"]
+	path = lib/python-MLX90614
+	url = https://github.com/TiagoSeverino/python-MLX90614
+[submodule "lib/VL53L0X_rasp_python"]
+	path = lib/VL53L0X_rasp_python
+	url = https://github.com/TiagoSeverino/VL53L0X_rasp_python
+[submodule "lib/python-l298n"]
+	path = lib/python-l298n
+	url = https://github.com/TiagoSeverino/python-l298n
+[submodule "lib/MFRC522-python"]
+	path = lib/MFRC522-python
+	url = https://github.com/TiagoSeverino/MFRC522-python
